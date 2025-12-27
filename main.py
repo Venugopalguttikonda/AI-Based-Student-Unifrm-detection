@@ -50,8 +50,8 @@ sp = dlib.shape_predictor(sp_path)
 facerec = dlib.face_recognition_model_v1(face_rec_path)
 
 # Email Configuration
-EMAIL_SENDER = "diet8632@gmail.com"
-EMAIL_PASSWORD = "tcqhtqziihltfnmz"
+EMAIL_SENDER = ""
+EMAIL_PASSWORD = ""
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 
