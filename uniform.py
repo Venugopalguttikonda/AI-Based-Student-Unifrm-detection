@@ -43,8 +43,8 @@ if os.path.exists(FACE_DATA_DIR):
                 student_encodings[data["name"]] = data
 
 # Email Configuration
-EMAIL_SENDER = "diet8632@gmail.com"
-EMAIL_PASSWORD = "tcqhtqziihltfnmz"
+EMAIL_SENDER = ""
+EMAIL_PASSWORD = ""
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 
